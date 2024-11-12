@@ -16,3 +16,6 @@ Learn how to create multiple pages in a website.
 Structure a website using HTML in a semantic way.
 Structure in a way that you can easily add styles later.
 Add SEO meta tags to the website.
+
+![image](https://github.com/user-attachments/assets/0bdea6e3-0e90-401f-abbb-2ddfd749e01a)
+
